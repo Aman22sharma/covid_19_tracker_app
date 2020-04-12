@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bangers|Varela+Round&display=swap');
+.container {
+    margin: 1.5% 0!important;
+}
+
+.card {
+    margin: 2% 4% !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.infected {
+    border-bottom: 10px solid rgb(0, 0, 255, 0.5);
+}
+
+.recovered {
+    border-bottom: 10px solid rgb(0, 255, 0, 0.5);
+}
+
+.deaths {
+    border-bottom: 10px solid rgb(255, 0, 0, 0.5);
+}
+
+.cardTitle1 {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color: rgb(0, 0, 255, 0.5) !important;
+}
+
+.cardTitle2 {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color: rgb(0, 255, 0, 0.5) !important;
+}
+
+.cardTitle3 {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    color: rgb(255, 0, 0, 0.5) !important;
+}
+
+.countryText {
+    margin: 6% 0 0 0 !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.cardFooter {
+    margin-top: 10px !important;
+}
+
+.appTitle {
+    color: #FF5733 !important;
+    background-color: turquoise !important;
+    margin-bottom: 15px !important;
+}
+
+.appCreator {
+    background-color: rgb(185, 72, 120) !important;
+    margin-bottom: 30px !important;
+    color: white !important;
+    font-family: 'Bangers', cursive !important;
+}
+
+@media only screen and (max-width: 770px) {
+    .card {
+        margin: 2% 0 !important;
+    }
+    .countryText {
+        font-size: 30px !important;
+        font-family: 'Roboto', sans-serif !important;
+    }
+    .appTitle {
+        font-size: 15px !important;
+        font-family: 'Roboto', sans-serif !important;
+        margin-bottom: 5px !important;
+    }
+    .appCreator {
+        background-color: rgb(185, 72, 120) !important;
+        margin-bottom: 15px !important;
+        color: white !important;
+        font-family: 'Varela Round', sans-serif !important;
+        font-size: 15px !important;
+    }
+}
