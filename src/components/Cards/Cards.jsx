@@ -103,7 +103,7 @@ const Cards = ({
     <
     Typography className = { styles.cardFooter }
     variant = "body2" >
-        Number of active cases of COVID - 19. <
+        Number of recovered patients of COVID - 19. <
         /Typography> < /
     CardContent > <
         /Grid>
