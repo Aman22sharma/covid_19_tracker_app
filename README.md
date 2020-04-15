@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#### Netlify Link- [https://covid-19-livetracker.netlify.com](https://covid-19-livetracker.netlify.com/).
+#### Website Link- [https://covid-19-livetracker.netlify.com](https://covid-19-livetracker.netlify.com/).
 
 ## Available Scripts
 
