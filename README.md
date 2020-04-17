@@ -1,5 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## COVID-19 Live Tracker Web Application
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 #### Website Link- [https://covid-19-livetracker.netlify.com](https://covid-19-livetracker.netlify.com/).
+##
+**Global Data set and Graphical representation**
+
+![screencapture-covid-19-livetracker-netlify-app-2020-04-17-12_31_56](https://user-images.githubusercontent.com/40789486/79541697-e6e6ca80-80a7-11ea-9cea-2bc7baf90cc1.png)
+
+##
+**Country wise data set and graphical representaion**
+![screencapture-covid-19-livetracker-netlify-app-2020-04-17-12_32_26](https://user-images.githubusercontent.com/40789486/79541927-578de700-80a8-11ea-95fb-93e4c3f08c58.png)
+
+
 
 ## Available Scripts
 
